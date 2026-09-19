@@ -1,0 +1,8 @@
+{
+  "name": "beatsend-tg-mini-app",
+  "private": true,
+  "workspaces": [
+    "frontend",
+    "backend"
+  ]
+}
